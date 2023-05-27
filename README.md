@@ -17,4 +17,4 @@ cabin, fare, and whether the passenger had any siblings or spouses on board. The
 be used to build a predictive model to determine the likelihood of a passenger surviving the
 disaster. The dataset offers opportunities for feature engineering, data visualization, and model
 selection, making it a valuable resource for developing and testing data analysis and machine
-learning skills.
+learning skills. 
